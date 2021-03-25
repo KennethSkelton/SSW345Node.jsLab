@@ -13,6 +13,9 @@ app.use(bodyParser.urlencoded({
 
 routes(app);
 
+//Comment bullshit
+
+
 // Start the server
 const server = app.listen(port, (error) => {
     if (error) return console.log(`Error: ${error}`);
