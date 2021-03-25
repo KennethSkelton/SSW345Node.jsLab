@@ -13,7 +13,6 @@ app.use(bodyParser.urlencoded({
 
 routes(app);
 
-//Comment bullshit
 
 
 // Start the server
